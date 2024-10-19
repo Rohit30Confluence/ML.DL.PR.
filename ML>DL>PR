@@ -1,0 +1,24 @@
+Machine-Learning-Deep-Learning-Pattern-Recognition/
+│
+├── README.md
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── sample_data/
+├── notebooks/
+│   ├── exploratory/
+│   ├── models/
+│   └── visualizations/
+├── scripts/
+│   ├── data_preprocessing/
+│   ├── feature_engineering/
+│   └── model_training/
+├── models/
+│   ├── saved_models/
+│   └── model_evaluations/
+├── requirements.txt
+├── LICENSE
+└── references/
+    ├── papers/
+    ├── articles/
+    └
