@@ -6,6 +6,15 @@ This project implements a neural network for recognizing handwritten digits usin
 ## Setup
 
 1. Clone the repository:
-   ```bash
    git clone <repository-url>
    cd handwritten-digit-recognition
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Run the training script:
+   python src/train.py
+   
+4. Explore the results in Jupyter Notebook:
+   jupyter notebook notebooks/exploration.ipynb
+
